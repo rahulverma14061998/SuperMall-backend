@@ -1,0 +1,92 @@
+[
+  {
+    "shopName": "Gourmet Grills",
+    "ownerName": "Jane Smith",
+    "category": "Food & Beverage",
+    "location": "Los Angeles",
+    "rating": 4.7,
+    "description": "Grilled to perfection with fresh, locally sourced ingredients.",
+    "contact": "987-654-3210"
+  },
+  {
+    "shopName": "Book Haven",
+    "ownerName": "Emily Johnson",
+    "category": "Books & Stationery",
+    "location": "San Francisco",
+    "rating": 4.8,
+    "description": "A paradise for book lovers, with a wide variety of genres and stationery.",
+    "contact": "456-789-1230"
+  },
+  {
+    "shopName": "Tech Galaxy",
+    "ownerName": "Michael Brown",
+    "category": "Electronics",
+    "location": "Chicago",
+    "rating": 4.6,
+    "description": "The latest in tech gadgets and devices at affordable prices.",
+    "contact": "321-654-9870"
+  },
+  {
+    "shopName": "The Pet Shop",
+    "ownerName": "Laura White",
+    "category": "Pets & Animals",
+    "location": "Miami",
+    "rating": 4.3,
+    "description": "Your one-stop shop for pet supplies and accessories.",
+    "contact": "555-123-4567"
+  },
+  {
+    "shopName": "Fashionista",
+    "ownerName": "Sophia Green",
+    "category": "Fashion",
+    "location": "New York",
+    "rating": 4.9,
+    "description": "High-end fashion for all seasons, from top designers.",
+    "contact": "777-888-9999"
+  },
+  {
+    "shopName": "Vintage Finds",
+    "ownerName": "Daniel Harris",
+    "category": "Antiques",
+    "location": "Austin",
+    "rating": 4.4,
+    "description": "Rare and beautiful antiques to add to your collection.",
+    "contact": "888-111-2222"
+  },
+  {
+    "shopName": "Green Thumbs",
+    "ownerName": "Olivia Martin",
+    "category": "Gardening & Outdoors",
+    "location": "Denver",
+    "rating": 4.5,
+    "description": "Plants, gardening tools, and expert advice for your garden.",
+    "contact": "999-123-4560"
+  },
+  {
+    "shopName": "Sports World",
+    "ownerName": "James Wilson",
+    "category": "Sports & Outdoors",
+    "location": "Seattle",
+    "rating": 4.6,
+    "description": "Everything you need for your next adventure or sports activity.",
+    "contact": "123-987-6543"
+  },
+  {
+    "shopName": "Glamour Beauty",
+    "ownerName": "Natalie Clark",
+    "category": "Beauty & Health",
+    "location": "Los Angeles",
+    "rating": 4.8,
+    "description": "Top beauty products and skincare for radiant skin and hair.",
+    "contact": "543-210-8765"
+  },
+  {
+    "shopName": "Home Comforts",
+    "ownerName": "David Young",
+    "category": "Home & Furniture",
+    "location": "San Diego",
+    "rating": 4.7,
+    "description": "Furniture, decor, and everything to make your home cozy.",
+    "contact": "321-789-6540"
+  }
+]
